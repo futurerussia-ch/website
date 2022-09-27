@@ -5,4 +5,4 @@
 
 ## Kontakte
 
-* Email: [contact@betterrussia.org](mailto://contact@betterrussia.org)
+* E-mail: [contact@betterrussia.org](mailto://contact@betterrussia.org)
