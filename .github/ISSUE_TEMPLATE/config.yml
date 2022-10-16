@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Контакты
+    url: https://www.futurerussia.ch/contacts
+    about: Свяжитесь с нами для приватного обсуждения вопросов за пределами GitHub Issues
+  - name: Присоединяйтесь к нам
+    url: https://www.futurerussia.ch/help
+    about: Мы ищем активистов и волонтёров, которые готовы помочь с развитием сообщества!
